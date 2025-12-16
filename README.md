@@ -1,0 +1,2 @@
+# Real-Time-Face-Recognition-System-using-OpenCV-and-Deep-Learning
+This project is a real-time face recognition system developed using Python, OpenCV, and Deep Learning (Keras/TensorFlow). It features an end-to-end pipeline: capturing 100 face samples via an IP webcam, preprocessing data into grayscale 100x100 images, and utilizing a CNN model for identification. Ideal for security or attendance automation.
