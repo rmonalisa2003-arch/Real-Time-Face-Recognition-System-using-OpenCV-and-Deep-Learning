@@ -1,0 +1,22 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (keep your raw images and pickle data local)
+images/
+data/
+*.p
+*.pkl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Model weights (Optional: add if your .h5 file is over 100MB)
+# final_model.h5
